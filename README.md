@@ -1,4 +1,4 @@
-# coursera
+# DropDown Menu
 
 
-This repository is for coursera assignments of week wise . Right now there is only one folder which contains assignment of week 2 only. In case of any doubts feel free to ask via comment.
+This is a simple project on html and css showing dropdown implementation using pure html and css 
